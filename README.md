@@ -1,4 +1,4 @@
-# CampusFlow - Smart Campus Platform
+# CampusFlow - Timetable Management System ✅
 
 Intelligent timetable generation for modern campuses with conflict-free scheduling, smart dashboards, and seamless academic planning.
 
